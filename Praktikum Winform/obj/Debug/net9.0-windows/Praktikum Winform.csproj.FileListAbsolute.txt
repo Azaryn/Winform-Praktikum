@@ -1,0 +1,23 @@
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Praktikum Winform.exe
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Praktikum Winform.deps.json
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Praktikum Winform.runtimeconfig.json
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Praktikum Winform.dll
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Praktikum Winform.pdb
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum_Winform.Form1.resources
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum_Winform.Properties.Resources.resources
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.csproj.GenerateResource.cache
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.AssemblyInfoInputs.cache
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.AssemblyInfo.cs
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.csproj.CoreCompileInputs.cache
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.dll
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\refint\Praktikum Winform.dll
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.pdb
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.genruntimeconfig.cache
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\ref\Praktikum Winform.dll
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum_Winform.Form2.resources
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\bin\Debug\net9.0-windows\Npgsql.dll
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktikum Winform.csproj.AssemblyReference.cache
+D:\Semester 2\PBO\Ngoding\Praktikum Winform\Praktikum Winform\obj\Debug\net9.0-windows\Praktiku.0F45252E.Up2Date
