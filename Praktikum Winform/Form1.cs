@@ -22,7 +22,7 @@ namespace Praktikum_Winform
                 {
                     if (username == admin.username && password == admin.password)
                     {
-                        MessageBox.Show("Login Berhasil",$"Selamat Datang {admin.username}", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("Login Berhasil",$"Selamat Datang Bang {admin.username}", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         this.Hide();
 
                         Form2 form2 = new Form2(admin.username);
