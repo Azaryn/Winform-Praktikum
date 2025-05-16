@@ -15,7 +15,7 @@ namespace Praktikum_Winform
         public Form2(string username)
         {
             InitializeComponent();
-            SapaUsername.Text = $"Halo Tuan {username}";
+            SapaUsername.Text = $"Halo Bang {username}";
         }
     }
 }
